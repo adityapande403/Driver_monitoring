@@ -1,1 +1,1 @@
-pip install numpy pandas matplotlib scikit-learn tensorflow keras opencv-python-headless opencv-python pillow pygame joblib watchdog
+numpy pandas matplotlib scikit-learn tensorflow keras opencv-python-headless opencv-python pillow pygame joblib watchdog
